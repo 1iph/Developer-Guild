@@ -10,7 +10,7 @@ const Hero = () => {
         <p className="text-2xl text-gray-400 mb-8">[DEV]</p>
         <div className="max-w-2xl mx-auto px-6">
           <p className="text-lg text-gray-300">
-            A community of dedicated developers contributing to the Hypixel ecosystem
+            A guild for developers that love gaming on hypixel
           </p>
         </div>
       </div>
